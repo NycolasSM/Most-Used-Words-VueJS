@@ -10,6 +10,9 @@ aplicações Desktop e tambèm como trabalhar com dados</p>
 <br>
 <h2>Comandos no terminal:</h2>
 <ul>
+<li>npm i (para instalar as dependências)</li>
+</ul>
+<ul>
 <li>npm run serve</li>
 </ul>
 <ul>
